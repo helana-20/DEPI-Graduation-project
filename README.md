@@ -1,4 +1,5 @@
 **Human Resources Dataset Analysis**
+
 **Project Idea**
 
 This project focuses on analyzing a Human Resources dataset to explore employee behavior, satisfaction, performance patterns, and workforce trends. The goal is to extract strategic HR insights, answer analytical and forecasting questions, and build a visualization dashboard to support data-driven HR decision-making.
