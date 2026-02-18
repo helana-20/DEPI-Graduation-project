@@ -1,9 +1,9 @@
-Human Resources Dataset Analysis
-Project Idea
+**Human Resources Dataset Analysis**
+**Project Idea**
 
 This project focuses on analyzing a Human Resources dataset to explore employee behavior, satisfaction, performance patterns, and workforce trends. The goal is to extract strategic HR insights, answer analytical and forecasting questions, and build a visualization dashboard to support data-driven HR decision-making.
 
-The project includes:
+**The project includes:**
 
 Data preprocessing and cleaning
 
@@ -15,21 +15,21 @@ Workforce forecasting using machine learning
 
 Building an interactive dashboard using Tableau
 
-Team Information
-
+**Team Information
+**
 Team Name: Team 2
 
-Team Members
+**Team Members**
 
-Helana Hany Botros (Leader)
+Helana Hany Botros **(Leader)**
 Hanan Hany Fathy  
 Hoor Ali Mohammed
 Nancy Khaled Saad
 Karin Ezzat Fahim
 
 
-Project Plan
-1. Research & Analysis
+**Project Plan**
+**1. Research & Analysis**
 
 Data preprocessing and cleaning
 
@@ -41,13 +41,13 @@ Define forecasting questions
 
 Target Audience: HR managers, Talent acquisition specialists, Department managers, Executive leadership
 
-2. Visual Identity
+**2. Visual Identity**
 
 Presentation theme design
 
 Dashboard layout and branding
 
-3. Main Designs
+**3. Main Designs**
 
 HR analytics dashboard
 
@@ -57,7 +57,7 @@ Forecasting visualizations
 
 Final presentation slides
 
-4. Complementary Products
+**4. Complementary Products**
 
 Data preprocessing notebook
 
@@ -65,7 +65,7 @@ Analysis notebook
 
 Forecasting model notebook
 
-5. Review & Finalization
+**5. Review & Finalization**
 
 Validate model performance
 
@@ -75,7 +75,7 @@ Optimize dashboard performance
 
 Final documentation
 
-6. Final Presentation
+**6. Final Presentation**
 
 Present HR insights
 
@@ -85,7 +85,7 @@ Demonstrate dashboard functionality
 
 Highlight business impact
 
-Roles & Responsibilities
+**Roles & Responsibilities**
 
 Data Cleaning & Preprocessing — SQL, Python (Pandas)
 Data Analysis & Visualization — Python (Matplotlib), SQL
@@ -93,7 +93,7 @@ Forecasting Modeling — Python (Scikit-learn)
 Dashboard Development — Tableau
 Documentation & Presentation — Team collaboration
 
-KPIs (Key Performance Indicators)
+**KPIs (Key Performance Indicators)**
 
 Data cleaning accuracy
 
@@ -105,13 +105,13 @@ Dashboard usability
 
 Insight usefulness for HR decision-making
 
-Instructor
+**Instructor**
 
 Mr. Abdelrahman Ashour
 
-Project Timeline (4 Weeks)
-Week 1 — Data Model & Preprocessing
-Tasks
+**Project Timeline (4 Weeks)**
+****Week 1** — Data Model & Preprocessing
+Tasks**
 
 Build HR data model
 
@@ -123,11 +123,11 @@ Remove duplicates
 
 Feature engineering (e.g., tenure, age groups, satisfaction categories)
 
-Tools
+**Tools**
 
 SQL
 
-Python (Pandas, Matplotlib)
+Python (Pandas)
 
 Deliverables
 
@@ -135,8 +135,8 @@ Cleaned dataset
 
 Data preprocessing notebook
 
-Week 2 — Analysis Questions Phase
-Tasks
+**Week 2 — Analysis Questions Phase
+Tasks**
 
 Define HR analysis questions
 
@@ -150,11 +150,11 @@ Identify factors affecting employee turnover
 
 Explore overtime impact on satisfaction
 
-Tools
+**Tools**
 
 SQL
 
-Python (Pandas, Matplotlib)
+Python (Pandas)
 
 Deliverables
 
@@ -162,8 +162,8 @@ Set of analysis questions
 
 Exploratory data analysis visualizations
 
-Week 3 — Forecasting Phase
-Tasks
+**Week 3 — Forecasting Phase
+Tasks**
 
 Define forecasting questions
 
@@ -175,9 +175,9 @@ Predict employee satisfaction trends
 
 Recommend HR strategies based on risk levels
 
-Tools
+**Tools**
 
-Python (Scikit-learn, Pandas, Matplotlib)
+Python ( Pandas)
 
 Deliverables
 
@@ -195,8 +195,8 @@ F1 Score
 
 Forecasting visualizations
 
-Week 4 — Dashboard & Final Presentation
-Tasks
+**Week 4 — Dashboard & Final Presentation
+Tasks**
 
 Build Tableau dashboard
 
@@ -206,7 +206,7 @@ Present insights and forecasting results
 
 Prepare final documentation and slides
 
-Tools
+**Tools**
 
 SQL
 
@@ -222,12 +222,12 @@ Final report
 
 Final presentation
 
-Project Files
+**Project Files**
 
 You can find the full project files here:
-Add Google Drive or GitHub repository link here
 
-Tools & Technologies
+
+**Tools & Technologies**
 
 SQL
 
