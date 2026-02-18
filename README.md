@@ -4,6 +4,7 @@
 
 This project focuses on analyzing a Human Resources dataset to explore employee behavior, satisfaction, performance patterns, and workforce trends. The goal is to extract strategic HR insights, answer analytical and forecasting questions, and build a visualization dashboard to support data-driven HR decision-making.
 
+****
 
 **The project includes:**
 
@@ -17,11 +18,13 @@ Workforce forecasting using machine learning
 
 Building an interactive dashboard using Tableau
 
-	
-****Team Information
 ****
+	
+**Team Information**
+
 **Team Name: Team 2**
 
+****
 **Team Members**
 
 Helana Hany Botros **(Leader)**
@@ -33,7 +36,7 @@ Hoor Ali Mohammed
 Nancy Khaled Saad
 
 Karin Ezzat Fahim
-
+****
 
 **Project Plan**
 **1. Research & Analysis**
@@ -92,7 +95,7 @@ Demonstrate dashboard functionality
 
 Highlight business impact
 
-
+****
 **Roles & Responsibilities**
 
 Data Cleaning & Preprocessing — SQL, Python (Pandas)
@@ -101,7 +104,7 @@ Forecasting Modeling — Python (Scikit-learn)
 Dashboard Development — Tableau
 Documentation & Presentation — Team collaboration
 
-
+****
 **KPIs (Key Performance Indicators)**
 
 Data cleaning accuracy
@@ -114,12 +117,14 @@ Dashboard usability
 
 Insight usefulness for HR decision-making
 
-
+****
 **Instructor**
 
 Mr. Abdelrahman Ashour
 
+****
 **Project Timeline (4 Weeks)**
+
 ****Week 1** — Data Model & Preprocessing
 Tasks**
 
@@ -144,6 +149,7 @@ Deliverables
 Cleaned dataset
 
 Data preprocessing notebook
+****
 
 **Week 2 — Analysis Questions Phase
 Tasks**
@@ -172,6 +178,7 @@ Set of analysis questions
 
 Exploratory data analysis visualizations
 
+****
 **Week 3 — Forecasting Phase
 Tasks**
 
@@ -205,6 +212,7 @@ F1 Score
 
 Forecasting visualizations
 
+****
 **Week 4 — Dashboard & Final Presentation
 Tasks**
 
@@ -232,12 +240,13 @@ Final report
 
 Final presentation
 
+****
 
 **Project Files**
 
 You can find the full project files here:
 
-
+****
 **Tools & Technologies**
 
 SQL
