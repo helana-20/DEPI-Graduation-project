@@ -261,7 +261,8 @@ Scikit-learn
 
 Tableau
 
-Expected Outcomes
+****
+**Expected Outcomes**
 
 Clean and structured HR dataset
 
