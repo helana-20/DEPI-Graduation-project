@@ -1,7 +1,7 @@
 **Human Resources Dataset Analysis**
 **Project Idea**
-
 This project focuses on analyzing a Human Resources dataset to explore employee behavior, satisfaction, performance patterns, and workforce trends. The goal is to extract strategic HR insights, answer analytical and forecasting questions, and build a visualization dashboard to support data-driven HR decision-making.
+
 
 **The project includes:**
 
@@ -15,6 +15,7 @@ Workforce forecasting using machine learning
 
 Building an interactive dashboard using Tableau
 
+	
 ****Team Information
 ****
 **Team Name: Team 2**
@@ -22,9 +23,13 @@ Building an interactive dashboard using Tableau
 **Team Members**
 
 Helana Hany Botros **(Leader)**
+
 Hanan Hany Fathy  
+
 Hoor Ali Mohammed
+
 Nancy Khaled Saad
+
 Karin Ezzat Fahim
 
 
@@ -85,6 +90,7 @@ Demonstrate dashboard functionality
 
 Highlight business impact
 
+
 **Roles & Responsibilities**
 
 Data Cleaning & Preprocessing — SQL, Python (Pandas)
@@ -92,6 +98,7 @@ Data Analysis & Visualization — Python (Matplotlib), SQL
 Forecasting Modeling — Python (Scikit-learn)
 Dashboard Development — Tableau
 Documentation & Presentation — Team collaboration
+
 
 **KPIs (Key Performance Indicators)**
 
@@ -104,6 +111,7 @@ Forecasting model performance (Accuracy, Precision, Recall, F1-score)
 Dashboard usability
 
 Insight usefulness for HR decision-making
+
 
 **Instructor**
 
@@ -221,6 +229,7 @@ Interactive HR dashboard
 Final report
 
 Final presentation
+
 
 **Project Files**
 
