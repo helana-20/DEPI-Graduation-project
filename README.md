@@ -15,9 +15,9 @@ Workforce forecasting using machine learning
 
 Building an interactive dashboard using Tableau
 
-**Team Information
-**
-Team Name: Team 2
+****Team Information
+****
+**Team Name: Team 2**
 
 **Team Members**
 
