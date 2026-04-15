@@ -144,9 +144,7 @@ Remove duplicates
 Prepare the dataset for analysis
 **Tools**
 
-SQL
-
-Python (Pandas)
+Python (Pandas,Numpy)
 
 Deliverables
 
@@ -167,8 +165,7 @@ Analyze relationships between customer demand, orders, and inventory levels
 Explore insights such as the impact of demand fluctuations on supply chain stages
 
 **Tools**
-
-SQL
+Excel
 
 Python (Pandas)
 
@@ -221,8 +218,6 @@ Prepare the final report and presentation summarizing the project
 
 **Tools**
 
-SQL
-
 Python
 
 power BI 
@@ -244,15 +239,13 @@ You can find the full project files here:
 ****
 **Tools & Technologies**
 
-SQL
+Excel
 
 Python
 
 Pandas
 
-Matplotlib
-
-Scikit-learn
+Numpy
 
 power BI 
 
